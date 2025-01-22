@@ -15,7 +15,7 @@
   "dependencies": {
     "compression": "^1.7.4",
     "express": "^4.21.2",
-    "socket.io": "^4.4.1"
+    "socket.io": "^4.8.1"
   },
   "engines": {
     "node": ">=16.x >=20.x",
